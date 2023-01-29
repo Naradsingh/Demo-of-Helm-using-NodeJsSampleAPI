@@ -1,2 +1,2 @@
-# node-sample-api
-Sample API
+# Demo of Helm chart using node-sample-api
+Demo of Helm chart using node-sample-api
